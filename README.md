@@ -1,5 +1,5 @@
 # Mid-Term-Project
-Opensource-SW
+[DKU] [2023-1] [Opensource-SW]
 
 ## 자기소개를 위한 개인 홈페이지 작성
 ### [조건]
