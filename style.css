@@ -132,16 +132,10 @@ a{
         width: 100%;
         padding-left: 0px;
     }
-
-    .navbar__toggleBtn{
-        display: block;
-    }
-    
     .model{
         text-align: center;
         padding-left: 0;
     }
-
     .model1{
         flex-direction: column;
         align-items: center;
@@ -161,6 +155,10 @@ a{
         flex-direction: column;
         align-items: center;
         width: 100%;
+    }
+
+    .navbar__toggleBtn{
+        display: block;
     }
 
     .navbar__menu.active,
