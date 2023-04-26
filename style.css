@@ -10,7 +10,10 @@ a{
     text-decoration: none;
     color: white;
 }
-
+.contents{
+    background-color: #50508C;
+    text-align: center;
+}
 .navbar{
     display: flex;
     justify-content: space-between;
